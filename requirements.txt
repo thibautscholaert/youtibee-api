@@ -1,0 +1,7 @@
+yt-dlp
+flask
+flask_cors
+ffmpeg-python
+redis
+requests
+requests[socks]
